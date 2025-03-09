@@ -21,4 +21,7 @@ class Solution {
                 }
             }
         }
+approach:using two pointers first will point at zero number and other will find a non zero element and then we will swap them
+Time Complexity: O(n)
+Space Complexity:O(1)
     };
